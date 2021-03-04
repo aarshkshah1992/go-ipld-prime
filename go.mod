@@ -1,4 +1,4 @@
-module github.com/ipld/go-ipld-prime
+module github.com/aarshkshah1992/go-ipld-prime
 
 go 1.14
 
